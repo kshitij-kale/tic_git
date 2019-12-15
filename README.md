@@ -1,3 +1,3 @@
-# beginner
+# Tic-Tac-Toe
 Basic starting projects
-1. Tic-Tac-Toe
+
